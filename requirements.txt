@@ -1,0 +1,11 @@
+langchain-google-genai 
+langgraph 
+pandas 
+streamlit 
+plotly 
+seaborn 
+matplotlib 
+fpdf2 
+openpyxl
+python-dotenv
+langchain-ollama
